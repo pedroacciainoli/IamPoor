@@ -1,0 +1,6 @@
+module Pods_I_Am_Poor {
+  umbrella header "Pods-I Am Poor-umbrella.h"
+
+  export *
+  module * { export * }
+}
